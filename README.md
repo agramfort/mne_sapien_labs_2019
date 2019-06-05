@@ -1,6 +1,6 @@
-# MNE Talk Materials for Sapiens Labs Symposium 2019
+# MNE Talk Materials for Sapien Labs Symposium 2019
 
-Title : EEG Analysis with the MNE Software
+Title : EEG and MEG Analysis with the MNE Software
 
 The pdf slides are at: https://www.slideshare.net/agramfort/mne-sapien-labs-2019
 
